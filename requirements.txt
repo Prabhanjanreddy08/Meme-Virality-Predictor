@@ -1,0 +1,5 @@
+streamlit
+textblob
+pandas
+scikit-learn
+nltk
