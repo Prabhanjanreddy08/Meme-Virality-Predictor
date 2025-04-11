@@ -1,5 +1,8 @@
 streamlit
-textblob
 pandas
+numpy
+textblob
 scikit-learn
-nltk
+seaborn
+matplotlib
+shap
