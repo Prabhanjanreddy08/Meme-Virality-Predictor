@@ -35,7 +35,7 @@ with st.sidebar:
     st.header("Input Meme Metrics")
     platform = st.selectbox("Platform", ["Reddit", "Twitter", "Instagram"])
     caption = st.text_area("Caption", "When your code works on the first try")
-    likes = st.slider("Likes", 0, 1000000, 100)
+    likes = st.slider("Likes", 0, 100000, 50)
     comments = st.slider("Comments", 0, 10000, 50)
     shares = st.slider("Shares", 0, 10000, 100)
     time_posted_hour = st.slider("Posted Hour (0–24)", 0, 23, 15)
