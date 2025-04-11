@@ -1,0 +1,1001 @@
+post_id,platform,caption,likes,comments,shares,time_posted_hour,total_engagement,viral
+0,Instagram,"No thoughts, just vibes",4033,191,186,15,4410,1
+1,Reddit,"No thoughts, just vibes",703,317,595,12,1615,0
+2,Instagram,This meme cured my depression,574,105,599,6,1278,0
+3,Instagram,How it started vs. how it's going,3232,362,753,19,4347,1
+4,Reddit,POV: your code runs on the first try,4783,309,853,16,5945,1
+5,Reddit,How it started vs. how it's going,2632,381,92,2,3105,1
+6,Instagram,How it started vs. how it's going,3828,232,85,4,4145,1
+7,Twitter,"No thoughts, just vibes",3230,264,43,18,3537,1
+8,Instagram,How it started vs. how it's going,488,343,136,11,967,0
+9,Instagram,When you realize it's Monday again...,1347,36,420,6,1803,0
+10,Instagram,"No thoughts, just vibes",3681,304,73,8,4058,1
+11,Instagram,When you realize it's Monday again...,3173,40,547,5,3760,1
+12,Reddit,POV: your code runs on the first try,4589,16,612,16,5217,1
+13,Instagram,"No thoughts, just vibes",1667,343,987,15,2997,0
+14,Twitter,POV: your code runs on the first try,1637,276,511,22,2424,0
+15,Reddit,"No thoughts, just vibes",4114,306,155,2,4575,1
+16,Twitter,This meme cured my depression,3553,58,937,20,4548,1
+17,Twitter,How it started vs. how it's going,1000,422,254,3,1676,0
+18,Twitter,This meme cured my depression,850,182,170,9,1202,0
+19,Twitter,POV: your code runs on the first try,1388,40,980,4,2408,0
+20,Reddit,How it started vs. how it's going,3712,38,727,20,4477,1
+21,Reddit,"No thoughts, just vibes",1367,396,169,21,1932,0
+22,Twitter,How it started vs. how it's going,821,191,763,9,1775,0
+23,Twitter,When you realize it's Monday again...,454,266,871,11,1591,0
+24,Reddit,How it started vs. how it's going,1624,493,321,9,2438,0
+25,Reddit,When you realize it's Monday again...,2772,146,566,12,3484,1
+26,Reddit,How it started vs. how it's going,3726,394,455,10,4575,1
+27,Instagram,When you realize it's Monday again...,3147,332,943,21,4422,1
+28,Instagram,POV: your code runs on the first try,4089,126,602,15,4817,1
+29,Instagram,This meme cured my depression,4806,45,789,7,5640,1
+30,Twitter,"No thoughts, just vibes",2190,44,612,7,2846,0
+31,Instagram,How it started vs. how it's going,916,0,154,7,1070,0
+32,Twitter,This meme cured my depression,3986,167,888,12,5041,1
+33,Twitter,"No thoughts, just vibes",2875,107,348,1,3330,1
+34,Instagram,"No thoughts, just vibes",1440,18,450,11,1908,0
+35,Twitter,When you realize it's Monday again...,4400,331,875,9,5606,1
+36,Instagram,POV: your code runs on the first try,735,71,652,11,1458,0
+37,Instagram,POV: your code runs on the first try,3568,455,172,10,4195,1
+38,Reddit,This meme cured my depression,3338,444,9,14,3791,1
+39,Instagram,POV: your code runs on the first try,3015,108,739,15,3862,1
+40,Reddit,How it started vs. how it's going,2889,267,264,16,3420,1
+41,Instagram,POV: your code runs on the first try,961,444,437,1,1842,0
+42,Instagram,This meme cured my depression,2989,239,759,17,3987,1
+43,Reddit,POV: your code runs on the first try,3848,416,246,11,4510,1
+44,Reddit,How it started vs. how it's going,1026,300,666,18,1992,0
+45,Instagram,When you realize it's Monday again...,3865,89,545,22,4499,1
+46,Twitter,This meme cured my depression,2863,102,498,17,3463,1
+47,Reddit,When you realize it's Monday again...,2501,475,128,16,3104,1
+48,Twitter,When you realize it's Monday again...,1947,249,671,5,2867,0
+49,Twitter,When you realize it's Monday again...,1177,452,600,14,2229,0
+50,Twitter,"No thoughts, just vibes",4760,7,604,2,5371,1
+51,Reddit,"No thoughts, just vibes",11,152,326,5,489,0
+52,Twitter,When you realize it's Monday again...,4399,346,752,2,5497,1
+53,Reddit,This meme cured my depression,3364,173,834,0,4371,1
+54,Twitter,How it started vs. how it's going,3022,342,979,12,4343,1
+55,Instagram,How it started vs. how it's going,3371,157,403,20,3931,1
+56,Instagram,POV: your code runs on the first try,2830,492,628,13,3950,1
+57,Reddit,This meme cured my depression,42,430,605,12,1077,0
+58,Instagram,"No thoughts, just vibes",943,214,674,3,1831,0
+59,Instagram,When you realize it's Monday again...,2390,176,610,6,3176,1
+60,Twitter,POV: your code runs on the first try,2545,174,624,21,3343,1
+61,Reddit,How it started vs. how it's going,2411,339,358,9,3108,1
+62,Twitter,"No thoughts, just vibes",4986,337,602,6,5925,1
+63,Twitter,"No thoughts, just vibes",1004,145,857,20,2006,0
+64,Twitter,When you realize it's Monday again...,20,449,717,14,1186,0
+65,Twitter,How it started vs. how it's going,406,323,16,14,745,0
+66,Twitter,This meme cured my depression,1014,477,273,3,1764,0
+67,Twitter,"No thoughts, just vibes",4431,160,684,22,5275,1
+68,Twitter,When you realize it's Monday again...,1838,126,115,22,2079,0
+69,Reddit,This meme cured my depression,3188,419,860,5,4467,1
+70,Instagram,How it started vs. how it's going,714,81,979,23,1774,0
+71,Twitter,"No thoughts, just vibes",4146,484,692,19,5322,1
+72,Twitter,This meme cured my depression,3854,146,90,4,4090,1
+73,Twitter,This meme cured my depression,4419,238,81,19,4738,1
+74,Twitter,This meme cured my depression,4884,411,323,11,5618,1
+75,Twitter,"No thoughts, just vibes",140,423,960,0,1523,0
+76,Twitter,"No thoughts, just vibes",4565,83,113,7,4761,1
+77,Instagram,POV: your code runs on the first try,4882,112,768,0,5762,1
+78,Instagram,How it started vs. how it's going,963,224,57,4,1244,0
+79,Twitter,When you realize it's Monday again...,372,331,153,21,856,0
+80,Instagram,This meme cured my depression,3635,377,876,5,4888,1
+81,Reddit,POV: your code runs on the first try,2541,242,403,20,3186,1
+82,Twitter,When you realize it's Monday again...,3610,142,627,2,4379,1
+83,Reddit,POV: your code runs on the first try,1692,40,854,14,2586,0
+84,Reddit,"No thoughts, just vibes",105,422,265,4,792,0
+85,Twitter,This meme cured my depression,1681,257,314,23,2252,0
+86,Instagram,When you realize it's Monday again...,4097,446,714,13,5257,1
+87,Reddit,When you realize it's Monday again...,4016,284,40,17,4340,1
+88,Twitter,When you realize it's Monday again...,2636,104,104,15,2844,0
+89,Reddit,When you realize it's Monday again...,2137,201,900,5,3238,1
+90,Reddit,When you realize it's Monday again...,3416,449,889,23,4754,1
+91,Reddit,POV: your code runs on the first try,4445,306,192,13,4943,1
+92,Reddit,This meme cured my depression,3530,330,400,23,4260,1
+93,Instagram,"No thoughts, just vibes",1286,460,277,7,2023,0
+94,Reddit,"No thoughts, just vibes",3179,265,353,6,3797,1
+95,Reddit,"No thoughts, just vibes",3654,397,748,7,4799,1
+96,Reddit,"No thoughts, just vibes",2359,209,936,12,3504,1
+97,Instagram,POV: your code runs on the first try,444,50,732,5,1226,0
+98,Reddit,How it started vs. how it's going,35,117,579,17,731,0
+99,Reddit,This meme cured my depression,1475,200,708,1,2383,0
+100,Instagram,When you realize it's Monday again...,3957,376,255,7,4588,1
+101,Instagram,How it started vs. how it's going,1798,38,650,10,2486,0
+102,Instagram,"No thoughts, just vibes",1845,27,823,0,2695,0
+103,Reddit,How it started vs. how it's going,1408,258,946,21,2612,0
+104,Instagram,This meme cured my depression,1708,83,660,5,2451,0
+105,Instagram,When you realize it's Monday again...,2938,453,98,15,3489,1
+106,Reddit,When you realize it's Monday again...,1300,154,587,19,2041,0
+107,Instagram,This meme cured my depression,1243,116,281,11,1640,0
+108,Reddit,This meme cured my depression,3976,1,882,10,4859,1
+109,Twitter,"No thoughts, just vibes",3097,92,402,9,3591,1
+110,Instagram,When you realize it's Monday again...,4616,165,108,2,4889,1
+111,Twitter,How it started vs. how it's going,9,386,699,12,1094,0
+112,Reddit,POV: your code runs on the first try,2425,399,198,2,3022,1
+113,Instagram,POV: your code runs on the first try,1660,349,302,14,2311,0
+114,Reddit,This meme cured my depression,2631,295,326,15,3252,1
+115,Twitter,"No thoughts, just vibes",4815,257,153,12,5225,1
+116,Reddit,POV: your code runs on the first try,1072,80,551,16,1703,0
+117,Instagram,When you realize it's Monday again...,3225,424,644,2,4293,1
+118,Instagram,This meme cured my depression,4954,267,404,19,5625,1
+119,Twitter,How it started vs. how it's going,1316,418,461,10,2195,0
+120,Reddit,This meme cured my depression,4145,234,131,20,4510,1
+121,Instagram,How it started vs. how it's going,3683,320,790,18,4793,1
+122,Twitter,This meme cured my depression,3273,310,873,21,4456,1
+123,Instagram,This meme cured my depression,145,300,83,10,528,0
+124,Instagram,This meme cured my depression,3040,462,398,15,3900,1
+125,Reddit,How it started vs. how it's going,1462,473,753,20,2688,0
+126,Instagram,How it started vs. how it's going,4676,356,627,2,5659,1
+127,Reddit,This meme cured my depression,1584,212,108,21,1904,0
+128,Instagram,POV: your code runs on the first try,482,61,220,5,763,0
+129,Twitter,"No thoughts, just vibes",3179,48,903,13,4130,1
+130,Instagram,"No thoughts, just vibes",1249,126,552,23,1927,0
+131,Reddit,"No thoughts, just vibes",4768,222,367,17,5357,1
+132,Reddit,How it started vs. how it's going,630,408,146,16,1184,0
+133,Twitter,How it started vs. how it's going,661,278,111,3,1050,0
+134,Instagram,POV: your code runs on the first try,3503,407,614,22,4524,1
+135,Instagram,"No thoughts, just vibes",2852,293,557,14,3702,1
+136,Twitter,"No thoughts, just vibes",2466,283,923,10,3672,1
+137,Instagram,This meme cured my depression,987,276,493,2,1756,0
+138,Instagram,How it started vs. how it's going,1546,437,504,2,2487,0
+139,Reddit,"No thoughts, just vibes",649,106,474,15,1229,0
+140,Instagram,POV: your code runs on the first try,968,145,835,4,1948,0
+141,Instagram,POV: your code runs on the first try,2637,419,889,20,3945,1
+142,Twitter,"No thoughts, just vibes",1100,98,270,9,1468,0
+143,Twitter,How it started vs. how it's going,440,428,994,18,1862,0
+144,Reddit,POV: your code runs on the first try,769,374,420,3,1563,0
+145,Instagram,This meme cured my depression,1343,72,896,18,2311,0
+146,Instagram,POV: your code runs on the first try,4358,436,706,10,5500,1
+147,Instagram,When you realize it's Monday again...,3729,485,366,1,4580,1
+148,Reddit,When you realize it's Monday again...,3906,121,279,9,4306,1
+149,Reddit,How it started vs. how it's going,1577,29,282,10,1888,0
+150,Twitter,"No thoughts, just vibes",4008,187,39,19,4234,1
+151,Reddit,How it started vs. how it's going,3351,363,958,15,4672,1
+152,Instagram,How it started vs. how it's going,4795,353,188,18,5336,1
+153,Instagram,How it started vs. how it's going,2349,287,163,22,2799,0
+154,Reddit,How it started vs. how it's going,3602,450,993,23,5045,1
+155,Instagram,This meme cured my depression,1241,194,988,10,2423,0
+156,Instagram,This meme cured my depression,1125,155,535,13,1815,0
+157,Reddit,POV: your code runs on the first try,2601,171,535,1,3307,1
+158,Reddit,When you realize it's Monday again...,1190,334,3,22,1527,0
+159,Instagram,How it started vs. how it's going,4131,40,834,4,5005,1
+160,Instagram,POV: your code runs on the first try,4839,62,289,4,5190,1
+161,Instagram,When you realize it's Monday again...,4448,22,952,18,5422,1
+162,Twitter,"No thoughts, just vibes",72,359,432,20,863,0
+163,Twitter,This meme cured my depression,1914,74,470,11,2458,0
+164,Twitter,When you realize it's Monday again...,2472,47,180,17,2699,0
+165,Reddit,"No thoughts, just vibes",3046,159,247,3,3452,1
+166,Twitter,When you realize it's Monday again...,707,312,627,21,1646,0
+167,Reddit,This meme cured my depression,1804,117,278,16,2199,0
+168,Reddit,This meme cured my depression,3713,99,876,9,4688,1
+169,Twitter,POV: your code runs on the first try,2564,379,580,19,3523,1
+170,Twitter,How it started vs. how it's going,2475,416,862,5,3753,1
+171,Twitter,When you realize it's Monday again...,3610,407,253,13,4270,1
+172,Instagram,When you realize it's Monday again...,4255,166,180,10,4601,1
+173,Twitter,"No thoughts, just vibes",2823,289,829,10,3941,1
+174,Instagram,This meme cured my depression,1735,439,680,17,2854,0
+175,Reddit,When you realize it's Monday again...,1585,155,824,22,2564,0
+176,Instagram,This meme cured my depression,66,420,508,21,994,0
+177,Twitter,When you realize it's Monday again...,3061,6,760,17,3827,1
+178,Reddit,POV: your code runs on the first try,2428,195,699,23,3322,1
+179,Reddit,How it started vs. how it's going,4153,420,565,22,5138,1
+180,Reddit,When you realize it's Monday again...,341,55,325,10,721,0
+181,Instagram,This meme cured my depression,2774,320,356,20,3450,1
+182,Twitter,POV: your code runs on the first try,2817,192,824,11,3833,1
+183,Reddit,When you realize it's Monday again...,2661,46,649,4,3356,1
+184,Reddit,"No thoughts, just vibes",1232,147,679,22,2058,0
+185,Reddit,How it started vs. how it's going,3874,274,390,8,4538,1
+186,Instagram,When you realize it's Monday again...,2401,156,614,8,3171,1
+187,Instagram,POV: your code runs on the first try,1494,201,933,21,2628,0
+188,Twitter,"No thoughts, just vibes",4211,443,84,9,4738,1
+189,Instagram,POV: your code runs on the first try,661,401,316,21,1378,0
+190,Reddit,POV: your code runs on the first try,3883,475,211,18,4569,1
+191,Twitter,"No thoughts, just vibes",3619,418,514,0,4551,1
+192,Reddit,POV: your code runs on the first try,1868,426,383,6,2677,0
+193,Reddit,"No thoughts, just vibes",2334,494,690,3,3518,1
+194,Instagram,When you realize it's Monday again...,3374,478,341,0,4193,1
+195,Twitter,"No thoughts, just vibes",1016,474,814,14,2304,0
+196,Instagram,"No thoughts, just vibes",4406,125,963,7,5494,1
+197,Instagram,How it started vs. how it's going,207,394,987,11,1588,0
+198,Twitter,"No thoughts, just vibes",2665,304,843,21,3812,1
+199,Reddit,"No thoughts, just vibes",2493,368,37,21,2898,0
+200,Reddit,When you realize it's Monday again...,632,293,510,17,1435,0
+201,Twitter,How it started vs. how it's going,2102,63,419,14,2584,0
+202,Reddit,This meme cured my depression,2959,324,750,16,4033,1
+203,Twitter,When you realize it's Monday again...,3083,391,168,13,3642,1
+204,Twitter,When you realize it's Monday again...,4752,417,964,13,6133,1
+205,Instagram,This meme cured my depression,1931,175,908,17,3014,1
+206,Twitter,"No thoughts, just vibes",3719,115,342,19,4176,1
+207,Instagram,POV: your code runs on the first try,2562,439,825,17,3826,1
+208,Reddit,How it started vs. how it's going,1679,203,305,15,2187,0
+209,Reddit,POV: your code runs on the first try,236,485,541,0,1262,0
+210,Reddit,This meme cured my depression,4443,320,701,22,5464,1
+211,Reddit,When you realize it's Monday again...,4725,30,868,10,5623,1
+212,Instagram,When you realize it's Monday again...,1540,387,536,14,2463,0
+213,Reddit,How it started vs. how it's going,3943,112,111,11,4166,1
+214,Twitter,When you realize it's Monday again...,363,364,410,7,1137,0
+215,Twitter,When you realize it's Monday again...,2368,433,946,21,3747,1
+216,Twitter,How it started vs. how it's going,285,324,205,19,814,0
+217,Instagram,How it started vs. how it's going,148,413,184,5,745,0
+218,Reddit,This meme cured my depression,4037,375,381,2,4793,1
+219,Reddit,When you realize it's Monday again...,4551,343,495,23,5389,1
+220,Reddit,When you realize it's Monday again...,1766,442,378,12,2586,0
+221,Instagram,This meme cured my depression,4895,66,46,12,5007,1
+222,Twitter,"No thoughts, just vibes",1012,74,885,1,1971,0
+223,Twitter,"No thoughts, just vibes",2831,44,739,4,3614,1
+224,Reddit,"No thoughts, just vibes",2507,259,550,16,3316,1
+225,Twitter,This meme cured my depression,1523,153,527,5,2203,0
+226,Twitter,When you realize it's Monday again...,2785,154,503,1,3442,1
+227,Instagram,This meme cured my depression,2556,429,21,3,3006,1
+228,Instagram,This meme cured my depression,3725,362,212,21,4299,1
+229,Instagram,"No thoughts, just vibes",4576,447,309,10,5332,1
+230,Instagram,POV: your code runs on the first try,1601,474,660,7,2735,0
+231,Reddit,When you realize it's Monday again...,2408,233,967,11,3608,1
+232,Instagram,"No thoughts, just vibes",340,50,752,7,1142,0
+233,Twitter,POV: your code runs on the first try,2817,305,271,10,3393,1
+234,Reddit,POV: your code runs on the first try,2496,261,570,21,3327,1
+235,Twitter,How it started vs. how it's going,4930,314,798,19,6042,1
+236,Twitter,When you realize it's Monday again...,1725,124,937,7,2786,0
+237,Twitter,POV: your code runs on the first try,1689,398,201,7,2288,0
+238,Instagram,"No thoughts, just vibes",3267,244,31,16,3542,1
+239,Instagram,How it started vs. how it's going,4406,29,442,19,4877,1
+240,Reddit,When you realize it's Monday again...,261,425,161,19,847,0
+241,Reddit,This meme cured my depression,1442,484,766,22,2692,0
+242,Instagram,"No thoughts, just vibes",405,121,253,15,779,0
+243,Twitter,POV: your code runs on the first try,2190,124,520,13,2834,0
+244,Reddit,POV: your code runs on the first try,4437,36,976,10,5449,1
+245,Instagram,"No thoughts, just vibes",243,169,650,6,1062,0
+246,Instagram,POV: your code runs on the first try,4585,123,479,15,5187,1
+247,Instagram,How it started vs. how it's going,4107,356,9,12,4472,1
+248,Twitter,When you realize it's Monday again...,560,34,725,14,1319,0
+249,Instagram,How it started vs. how it's going,4137,86,504,23,4727,1
+250,Instagram,POV: your code runs on the first try,2725,133,784,15,3642,1
+251,Instagram,This meme cured my depression,593,195,835,20,1623,0
+252,Instagram,When you realize it's Monday again...,1826,273,559,22,2658,0
+253,Reddit,When you realize it's Monday again...,3229,200,435,23,3864,1
+254,Reddit,"No thoughts, just vibes",3287,368,110,8,3765,1
+255,Instagram,"No thoughts, just vibes",4073,284,152,2,4509,1
+256,Twitter,This meme cured my depression,133,76,634,18,843,0
+257,Reddit,When you realize it's Monday again...,3138,58,916,19,4112,1
+258,Instagram,This meme cured my depression,3919,430,868,4,5217,1
+259,Reddit,"No thoughts, just vibes",72,125,101,9,298,0
+260,Reddit,"No thoughts, just vibes",4494,499,752,16,5745,1
+261,Twitter,When you realize it's Monday again...,4225,400,832,14,5457,1
+262,Instagram,How it started vs. how it's going,2978,108,190,22,3276,1
+263,Instagram,POV: your code runs on the first try,4361,223,728,7,5312,1
+264,Twitter,"No thoughts, just vibes",1985,495,562,14,3042,1
+265,Twitter,"No thoughts, just vibes",792,277,803,20,1872,0
+266,Instagram,How it started vs. how it's going,4259,67,80,13,4406,1
+267,Instagram,How it started vs. how it's going,94,68,488,19,650,0
+268,Twitter,This meme cured my depression,1133,164,894,6,2191,0
+269,Reddit,This meme cured my depression,4917,488,87,20,5492,1
+270,Reddit,POV: your code runs on the first try,237,304,193,22,734,0
+271,Twitter,POV: your code runs on the first try,2946,396,103,11,3445,1
+272,Reddit,When you realize it's Monday again...,2530,161,782,16,3473,1
+273,Twitter,This meme cured my depression,1960,364,95,16,2419,0
+274,Reddit,"No thoughts, just vibes",1048,341,422,9,1811,0
+275,Reddit,This meme cured my depression,2529,308,890,18,3727,1
+276,Instagram,"No thoughts, just vibes",2964,378,197,13,3539,1
+277,Instagram,How it started vs. how it's going,963,342,0,10,1305,0
+278,Reddit,This meme cured my depression,536,434,406,1,1376,0
+279,Reddit,How it started vs. how it's going,4223,386,377,17,4986,1
+280,Instagram,POV: your code runs on the first try,3679,41,166,6,3886,1
+281,Instagram,POV: your code runs on the first try,4187,353,508,11,5048,1
+282,Instagram,When you realize it's Monday again...,3724,415,637,1,4776,1
+283,Twitter,This meme cured my depression,542,108,312,19,962,0
+284,Reddit,How it started vs. how it's going,845,50,592,17,1487,0
+285,Instagram,"No thoughts, just vibes",3603,249,417,5,4269,1
+286,Reddit,POV: your code runs on the first try,3036,496,762,23,4294,1
+287,Twitter,POV: your code runs on the first try,2494,340,680,9,3514,1
+288,Twitter,"No thoughts, just vibes",4485,429,476,19,5390,1
+289,Instagram,How it started vs. how it's going,2719,382,72,14,3173,1
+290,Twitter,How it started vs. how it's going,1884,491,140,4,2515,0
+291,Reddit,This meme cured my depression,4138,20,581,19,4739,1
+292,Instagram,This meme cured my depression,4349,299,261,2,4909,1
+293,Reddit,When you realize it's Monday again...,3201,138,339,4,3678,1
+294,Reddit,POV: your code runs on the first try,2710,358,307,7,3375,1
+295,Twitter,This meme cured my depression,1953,323,244,7,2520,0
+296,Twitter,How it started vs. how it's going,4737,498,514,7,5749,1
+297,Twitter,"No thoughts, just vibes",3850,384,336,11,4570,1
+298,Twitter,How it started vs. how it's going,689,91,574,23,1354,0
+299,Twitter,POV: your code runs on the first try,1950,446,560,22,2956,0
+300,Instagram,How it started vs. how it's going,456,279,75,7,810,0
+301,Reddit,When you realize it's Monday again...,2130,124,879,10,3133,1
+302,Reddit,POV: your code runs on the first try,3976,482,174,13,4632,1
+303,Reddit,"No thoughts, just vibes",4244,396,108,7,4748,1
+304,Reddit,When you realize it's Monday again...,1179,110,182,23,1471,0
+305,Twitter,POV: your code runs on the first try,4285,353,191,9,4829,1
+306,Reddit,"No thoughts, just vibes",3565,138,64,6,3767,1
+307,Instagram,When you realize it's Monday again...,882,483,848,16,2213,0
+308,Instagram,When you realize it's Monday again...,399,434,962,3,1795,0
+309,Reddit,POV: your code runs on the first try,608,272,473,12,1353,0
+310,Reddit,This meme cured my depression,1638,98,782,3,2518,0
+311,Instagram,When you realize it's Monday again...,2148,251,99,4,2498,0
+312,Instagram,When you realize it's Monday again...,1382,337,543,21,2262,0
+313,Twitter,"No thoughts, just vibes",1403,103,863,3,2369,0
+314,Instagram,How it started vs. how it's going,819,213,127,17,1159,0
+315,Twitter,POV: your code runs on the first try,3292,248,451,5,3991,1
+316,Twitter,POV: your code runs on the first try,819,151,913,23,1883,0
+317,Twitter,This meme cured my depression,419,249,368,23,1036,0
+318,Twitter,This meme cured my depression,4219,274,850,22,5343,1
+319,Twitter,POV: your code runs on the first try,4517,164,42,21,4723,1
+320,Reddit,This meme cured my depression,3302,486,883,1,4671,1
+321,Instagram,"No thoughts, just vibes",1508,340,418,22,2266,0
+322,Twitter,POV: your code runs on the first try,767,7,487,10,1261,0
+323,Instagram,This meme cured my depression,2044,283,77,13,2404,0
+324,Instagram,POV: your code runs on the first try,2139,4,825,4,2968,0
+325,Twitter,How it started vs. how it's going,3029,144,800,5,3973,1
+326,Reddit,When you realize it's Monday again...,1549,100,269,9,1918,0
+327,Twitter,POV: your code runs on the first try,1764,163,673,7,2600,0
+328,Reddit,When you realize it's Monday again...,2645,373,700,13,3718,1
+329,Instagram,This meme cured my depression,3716,146,758,23,4620,1
+330,Reddit,When you realize it's Monday again...,4605,63,899,2,5567,1
+331,Reddit,POV: your code runs on the first try,4481,90,727,11,5298,1
+332,Reddit,How it started vs. how it's going,2293,116,314,15,2723,0
+333,Instagram,This meme cured my depression,4837,353,924,22,6114,1
+334,Instagram,POV: your code runs on the first try,2708,266,850,16,3824,1
+335,Reddit,This meme cured my depression,900,309,901,0,2110,0
+336,Reddit,"No thoughts, just vibes",3084,172,888,22,4144,1
+337,Twitter,When you realize it's Monday again...,2009,46,992,9,3047,1
+338,Reddit,"No thoughts, just vibes",241,139,944,22,1324,0
+339,Twitter,POV: your code runs on the first try,2385,245,167,9,2797,0
+340,Reddit,How it started vs. how it's going,4268,148,338,20,4754,1
+341,Twitter,This meme cured my depression,671,245,192,23,1108,0
+342,Instagram,When you realize it's Monday again...,163,394,452,1,1009,0
+343,Reddit,This meme cured my depression,464,486,282,8,1232,0
+344,Reddit,POV: your code runs on the first try,3042,475,335,21,3852,1
+345,Reddit,This meme cured my depression,4592,4,389,12,4985,1
+346,Reddit,When you realize it's Monday again...,4795,464,999,15,6258,1
+347,Twitter,POV: your code runs on the first try,2442,183,524,17,3149,1
+348,Reddit,This meme cured my depression,4798,19,239,18,5056,1
+349,Instagram,How it started vs. how it's going,2355,424,831,11,3610,1
+350,Instagram,POV: your code runs on the first try,4278,45,957,7,5280,1
+351,Reddit,POV: your code runs on the first try,4724,11,482,16,5217,1
+352,Instagram,How it started vs. how it's going,2557,69,658,14,3284,1
+353,Reddit,"No thoughts, just vibes",545,16,715,9,1276,0
+354,Reddit,When you realize it's Monday again...,4719,370,591,14,5680,1
+355,Instagram,"No thoughts, just vibes",3835,146,890,14,4871,1
+356,Reddit,This meme cured my depression,593,153,554,22,1300,0
+357,Instagram,How it started vs. how it's going,4839,303,457,6,5599,1
+358,Twitter,"No thoughts, just vibes",3804,107,88,12,3999,1
+359,Reddit,POV: your code runs on the first try,1459,235,659,16,2353,0
+360,Twitter,This meme cured my depression,3493,307,94,8,3894,1
+361,Instagram,This meme cured my depression,2601,351,451,7,3403,1
+362,Twitter,"No thoughts, just vibes",2444,69,427,19,2940,0
+363,Twitter,"No thoughts, just vibes",2672,182,150,20,3004,1
+364,Instagram,How it started vs. how it's going,4200,249,513,17,4962,1
+365,Twitter,When you realize it's Monday again...,16,227,375,12,618,0
+366,Twitter,"No thoughts, just vibes",3191,101,21,15,3313,1
+367,Instagram,"No thoughts, just vibes",392,74,882,8,1348,0
+368,Twitter,POV: your code runs on the first try,424,416,312,11,1152,0
+369,Instagram,This meme cured my depression,571,445,996,11,2012,0
+370,Twitter,When you realize it's Monday again...,3631,215,839,5,4685,1
+371,Instagram,POV: your code runs on the first try,1120,406,518,18,2044,0
+372,Instagram,How it started vs. how it's going,241,398,205,6,844,0
+373,Twitter,How it started vs. how it's going,3897,410,951,2,5258,1
+374,Twitter,"No thoughts, just vibes",4095,202,374,15,4671,1
+375,Twitter,"No thoughts, just vibes",2279,191,450,17,2920,0
+376,Reddit,How it started vs. how it's going,788,248,625,15,1661,0
+377,Reddit,"No thoughts, just vibes",714,498,783,22,1995,0
+378,Reddit,When you realize it's Monday again...,4854,241,594,6,5689,1
+379,Instagram,"No thoughts, just vibes",2849,464,178,3,3491,1
+380,Twitter,This meme cured my depression,775,178,209,7,1162,0
+381,Instagram,"No thoughts, just vibes",4026,436,499,12,4961,1
+382,Reddit,POV: your code runs on the first try,2247,461,463,12,3171,1
+383,Twitter,When you realize it's Monday again...,78,218,839,16,1135,0
+384,Instagram,POV: your code runs on the first try,3926,81,123,16,4130,1
+385,Twitter,POV: your code runs on the first try,855,91,992,4,1938,0
+386,Instagram,This meme cured my depression,2148,434,112,5,2694,0
+387,Twitter,When you realize it's Monday again...,1031,174,11,18,1216,0
+388,Reddit,When you realize it's Monday again...,4940,238,125,12,5303,1
+389,Reddit,When you realize it's Monday again...,3271,259,564,13,4094,1
+390,Twitter,When you realize it's Monday again...,3576,390,330,21,4296,1
+391,Instagram,When you realize it's Monday again...,4182,364,900,3,5446,1
+392,Reddit,This meme cured my depression,3456,162,282,6,3900,1
+393,Reddit,"No thoughts, just vibes",3506,47,139,7,3692,1
+394,Reddit,POV: your code runs on the first try,407,328,400,12,1135,0
+395,Twitter,When you realize it's Monday again...,2711,327,901,5,3939,1
+396,Twitter,"No thoughts, just vibes",3088,115,96,5,3299,1
+397,Instagram,"No thoughts, just vibes",1668,428,516,23,2612,0
+398,Instagram,POV: your code runs on the first try,147,336,568,20,1051,0
+399,Instagram,This meme cured my depression,4327,336,923,2,5586,1
+400,Twitter,How it started vs. how it's going,3897,368,845,2,5110,1
+401,Twitter,How it started vs. how it's going,1950,224,68,12,2242,0
+402,Instagram,"No thoughts, just vibes",365,351,117,21,833,0
+403,Instagram,POV: your code runs on the first try,1674,327,887,1,2888,0
+404,Twitter,How it started vs. how it's going,4531,146,58,15,4735,1
+405,Instagram,"No thoughts, just vibes",4494,62,32,21,4588,1
+406,Reddit,This meme cured my depression,2546,293,317,5,3156,1
+407,Twitter,How it started vs. how it's going,562,322,49,7,933,0
+408,Instagram,"No thoughts, just vibes",3562,442,879,22,4883,1
+409,Twitter,"No thoughts, just vibes",2489,324,488,7,3301,1
+410,Reddit,When you realize it's Monday again...,772,12,18,5,802,0
+411,Twitter,This meme cured my depression,2037,430,725,13,3192,1
+412,Twitter,When you realize it's Monday again...,3423,493,196,2,4112,1
+413,Twitter,POV: your code runs on the first try,2567,188,890,9,3645,1
+414,Twitter,When you realize it's Monday again...,1573,286,449,2,2308,0
+415,Reddit,When you realize it's Monday again...,3694,207,989,11,4890,1
+416,Twitter,How it started vs. how it's going,3291,113,558,16,3962,1
+417,Twitter,"No thoughts, just vibes",1246,479,678,4,2403,0
+418,Instagram,This meme cured my depression,3719,21,451,19,4191,1
+419,Twitter,When you realize it's Monday again...,3839,348,288,8,4475,1
+420,Instagram,This meme cured my depression,359,213,140,20,712,0
+421,Reddit,When you realize it's Monday again...,2376,170,83,19,2629,0
+422,Reddit,POV: your code runs on the first try,3009,322,693,6,4024,1
+423,Reddit,When you realize it's Monday again...,2993,53,390,21,3436,1
+424,Reddit,How it started vs. how it's going,962,393,590,3,1945,0
+425,Instagram,"No thoughts, just vibes",3632,297,214,12,4143,1
+426,Twitter,POV: your code runs on the first try,1827,319,525,12,2671,0
+427,Reddit,When you realize it's Monday again...,1613,125,214,9,1952,0
+428,Twitter,This meme cured my depression,1640,276,402,17,2318,0
+429,Instagram,POV: your code runs on the first try,2216,463,127,16,2806,0
+430,Instagram,POV: your code runs on the first try,4312,203,821,19,5336,1
+431,Instagram,When you realize it's Monday again...,377,193,476,19,1046,0
+432,Reddit,POV: your code runs on the first try,4214,168,759,12,5141,1
+433,Twitter,This meme cured my depression,4285,151,403,16,4839,1
+434,Twitter,POV: your code runs on the first try,369,34,28,21,431,0
+435,Twitter,This meme cured my depression,2196,183,791,3,3170,1
+436,Instagram,When you realize it's Monday again...,3747,285,337,0,4369,1
+437,Reddit,"No thoughts, just vibes",651,56,830,0,1537,0
+438,Instagram,POV: your code runs on the first try,769,221,713,14,1703,0
+439,Instagram,"No thoughts, just vibes",2421,302,360,12,3083,1
+440,Twitter,This meme cured my depression,780,162,568,16,1510,0
+441,Instagram,POV: your code runs on the first try,1716,18,391,23,2125,0
+442,Twitter,How it started vs. how it's going,3983,369,217,7,4569,1
+443,Reddit,"No thoughts, just vibes",1311,263,573,17,2147,0
+444,Twitter,POV: your code runs on the first try,3359,281,668,12,4308,1
+445,Reddit,"No thoughts, just vibes",522,112,201,22,835,0
+446,Twitter,POV: your code runs on the first try,521,487,16,13,1024,0
+447,Instagram,When you realize it's Monday again...,4878,326,321,7,5525,1
+448,Instagram,"No thoughts, just vibes",2320,29,517,7,2866,0
+449,Reddit,How it started vs. how it's going,935,134,569,14,1638,0
+450,Reddit,How it started vs. how it's going,2230,66,324,12,2620,0
+451,Reddit,This meme cured my depression,4040,64,411,6,4515,1
+452,Twitter,POV: your code runs on the first try,4583,291,317,4,5191,1
+453,Twitter,"No thoughts, just vibes",4941,24,680,16,5645,1
+454,Reddit,This meme cured my depression,3697,36,964,15,4697,1
+455,Instagram,"No thoughts, just vibes",2837,0,81,22,2918,0
+456,Twitter,POV: your code runs on the first try,4083,398,473,1,4954,1
+457,Twitter,How it started vs. how it's going,2461,36,467,21,2964,0
+458,Twitter,When you realize it's Monday again...,3243,140,424,17,3807,1
+459,Reddit,How it started vs. how it's going,3359,231,944,16,4534,1
+460,Reddit,This meme cured my depression,685,135,730,6,1550,0
+461,Reddit,When you realize it's Monday again...,2160,388,688,12,3236,1
+462,Reddit,This meme cured my depression,3988,187,203,17,4378,1
+463,Reddit,POV: your code runs on the first try,4066,127,582,13,4775,1
+464,Instagram,When you realize it's Monday again...,1567,200,386,17,2153,0
+465,Instagram,This meme cured my depression,38,126,777,12,941,0
+466,Reddit,POV: your code runs on the first try,2544,256,97,10,2897,0
+467,Twitter,How it started vs. how it's going,4875,163,344,20,5382,1
+468,Reddit,POV: your code runs on the first try,1256,34,802,20,2092,0
+469,Instagram,"No thoughts, just vibes",2990,193,207,15,3390,1
+470,Instagram,POV: your code runs on the first try,2196,190,513,22,2899,0
+471,Twitter,POV: your code runs on the first try,3468,103,635,16,4206,1
+472,Instagram,"No thoughts, just vibes",2708,22,791,7,3521,1
+473,Reddit,This meme cured my depression,301,264,585,18,1150,0
+474,Twitter,This meme cured my depression,646,289,165,19,1100,0
+475,Reddit,POV: your code runs on the first try,4758,429,21,14,5208,1
+476,Reddit,"No thoughts, just vibes",1759,461,153,8,2373,0
+477,Twitter,"No thoughts, just vibes",4351,383,938,19,5672,1
+478,Reddit,How it started vs. how it's going,597,259,438,9,1294,0
+479,Instagram,This meme cured my depression,661,413,294,11,1368,0
+480,Reddit,When you realize it's Monday again...,4330,478,218,20,5026,1
+481,Twitter,This meme cured my depression,1368,357,668,22,2393,0
+482,Twitter,This meme cured my depression,2581,74,494,19,3149,1
+483,Twitter,How it started vs. how it's going,3868,354,229,0,4451,1
+484,Reddit,When you realize it's Monday again...,3537,71,19,19,3627,1
+485,Twitter,How it started vs. how it's going,4865,258,986,8,6109,1
+486,Twitter,When you realize it's Monday again...,4308,397,552,21,5257,1
+487,Reddit,POV: your code runs on the first try,4558,187,949,14,5694,1
+488,Instagram,When you realize it's Monday again...,282,460,147,0,889,0
+489,Reddit,How it started vs. how it's going,3678,172,107,11,3957,1
+490,Twitter,This meme cured my depression,1486,479,402,2,2367,0
+491,Twitter,When you realize it's Monday again...,4082,289,595,10,4966,1
+492,Reddit,When you realize it's Monday again...,4183,44,482,1,4709,1
+493,Instagram,"No thoughts, just vibes",460,60,366,15,886,0
+494,Twitter,This meme cured my depression,2325,82,833,8,3240,1
+495,Twitter,POV: your code runs on the first try,3754,122,413,14,4289,1
+496,Twitter,How it started vs. how it's going,2468,357,308,11,3133,1
+497,Reddit,POV: your code runs on the first try,1724,15,801,0,2540,0
+498,Twitter,This meme cured my depression,1376,65,917,12,2358,0
+499,Instagram,When you realize it's Monday again...,2743,423,834,13,4000,1
+500,Twitter,When you realize it's Monday again...,514,144,133,7,791,0
+501,Twitter,This meme cured my depression,702,374,718,7,1794,0
+502,Instagram,When you realize it's Monday again...,1653,161,282,11,2096,0
+503,Twitter,When you realize it's Monday again...,2066,233,777,0,3076,1
+504,Reddit,When you realize it's Monday again...,22,379,72,10,473,0
+505,Reddit,How it started vs. how it's going,2460,143,480,7,3083,1
+506,Reddit,How it started vs. how it's going,1304,357,351,9,2012,0
+507,Instagram,"No thoughts, just vibes",3300,187,559,18,4046,1
+508,Twitter,POV: your code runs on the first try,361,321,325,10,1007,0
+509,Reddit,This meme cured my depression,3727,449,744,6,4920,1
+510,Instagram,This meme cured my depression,1284,473,442,10,2199,0
+511,Twitter,This meme cured my depression,514,12,99,16,625,0
+512,Instagram,"No thoughts, just vibes",448,183,58,0,689,0
+513,Reddit,How it started vs. how it's going,1855,110,507,20,2472,0
+514,Reddit,"No thoughts, just vibes",4969,414,257,20,5640,1
+515,Reddit,This meme cured my depression,3562,289,412,7,4263,1
+516,Instagram,POV: your code runs on the first try,2520,294,451,22,3265,1
+517,Instagram,When you realize it's Monday again...,3081,450,64,23,3595,1
+518,Reddit,How it started vs. how it's going,1428,391,594,5,2413,0
+519,Instagram,How it started vs. how it's going,3967,214,153,21,4334,1
+520,Reddit,"No thoughts, just vibes",922,461,984,17,2367,0
+521,Reddit,How it started vs. how it's going,3137,119,265,5,3521,1
+522,Twitter,This meme cured my depression,2159,381,820,4,3360,1
+523,Instagram,This meme cured my depression,2547,54,78,12,2679,0
+524,Reddit,"No thoughts, just vibes",2979,26,314,18,3319,1
+525,Reddit,This meme cured my depression,2281,117,661,21,3059,1
+526,Instagram,POV: your code runs on the first try,2649,220,946,7,3815,1
+527,Twitter,"No thoughts, just vibes",313,230,559,8,1102,0
+528,Twitter,POV: your code runs on the first try,2613,52,916,16,3581,1
+529,Reddit,When you realize it's Monday again...,3083,294,890,2,4267,1
+530,Instagram,POV: your code runs on the first try,2256,320,247,18,2823,0
+531,Twitter,When you realize it's Monday again...,1037,400,789,10,2226,0
+532,Instagram,When you realize it's Monday again...,3489,232,867,23,4588,1
+533,Instagram,POV: your code runs on the first try,2634,157,609,16,3400,1
+534,Reddit,"No thoughts, just vibes",3983,436,413,20,4832,1
+535,Twitter,This meme cured my depression,1778,268,24,18,2070,0
+536,Reddit,This meme cured my depression,3895,20,283,1,4198,1
+537,Twitter,When you realize it's Monday again...,1124,402,448,7,1974,0
+538,Twitter,When you realize it's Monday again...,697,52,880,18,1629,0
+539,Twitter,"No thoughts, just vibes",2179,274,300,6,2753,0
+540,Twitter,How it started vs. how it's going,1404,312,67,16,1783,0
+541,Twitter,POV: your code runs on the first try,1043,280,6,5,1329,0
+542,Instagram,When you realize it's Monday again...,1929,213,816,18,2958,0
+543,Reddit,This meme cured my depression,1013,30,136,23,1179,0
+544,Instagram,"No thoughts, just vibes",226,336,163,5,725,0
+545,Twitter,POV: your code runs on the first try,1828,182,82,1,2092,0
+546,Reddit,"No thoughts, just vibes",4917,22,896,5,5835,1
+547,Twitter,POV: your code runs on the first try,2023,31,649,22,2703,0
+548,Reddit,POV: your code runs on the first try,4966,445,419,4,5830,1
+549,Instagram,When you realize it's Monday again...,2452,73,72,18,2597,0
+550,Reddit,"No thoughts, just vibes",2085,9,236,19,2330,0
+551,Reddit,"No thoughts, just vibes",4283,483,45,3,4811,1
+552,Reddit,This meme cured my depression,1080,455,617,21,2152,0
+553,Reddit,This meme cured my depression,2320,53,927,16,3300,1
+554,Reddit,When you realize it's Monday again...,3190,51,799,10,4040,1
+555,Twitter,When you realize it's Monday again...,2630,147,261,3,3038,1
+556,Reddit,How it started vs. how it's going,2563,159,175,12,2897,0
+557,Reddit,This meme cured my depression,3292,369,165,19,3826,1
+558,Instagram,POV: your code runs on the first try,4621,13,656,16,5290,1
+559,Reddit,"No thoughts, just vibes",3586,177,841,8,4604,1
+560,Instagram,When you realize it's Monday again...,4431,411,369,3,5211,1
+561,Twitter,"No thoughts, just vibes",2947,365,794,22,4106,1
+562,Reddit,"No thoughts, just vibes",3959,499,53,13,4511,1
+563,Instagram,How it started vs. how it's going,2813,52,689,18,3554,1
+564,Instagram,This meme cured my depression,2583,407,418,2,3408,1
+565,Twitter,When you realize it's Monday again...,161,334,755,13,1250,0
+566,Reddit,"No thoughts, just vibes",593,21,506,7,1120,0
+567,Reddit,When you realize it's Monday again...,3259,29,340,23,3628,1
+568,Instagram,POV: your code runs on the first try,4155,190,126,0,4471,1
+569,Reddit,How it started vs. how it's going,2962,259,408,9,3629,1
+570,Instagram,POV: your code runs on the first try,3888,204,923,17,5015,1
+571,Reddit,When you realize it's Monday again...,3390,58,366,15,3814,1
+572,Instagram,When you realize it's Monday again...,4501,470,270,7,5241,1
+573,Reddit,This meme cured my depression,663,263,643,0,1569,0
+574,Twitter,"No thoughts, just vibes",1132,465,604,11,2201,0
+575,Reddit,"No thoughts, just vibes",541,11,378,7,930,0
+576,Reddit,POV: your code runs on the first try,2974,118,72,23,3164,1
+577,Twitter,How it started vs. how it's going,867,414,922,15,2203,0
+578,Reddit,"No thoughts, just vibes",2066,461,921,17,3448,1
+579,Twitter,This meme cured my depression,431,289,914,3,1634,0
+580,Reddit,POV: your code runs on the first try,4835,337,247,5,5419,1
+581,Instagram,POV: your code runs on the first try,4278,247,859,11,5384,1
+582,Instagram,This meme cured my depression,1206,353,784,8,2343,0
+583,Reddit,How it started vs. how it's going,2528,126,42,14,2696,0
+584,Reddit,This meme cured my depression,1169,74,376,15,1619,0
+585,Reddit,How it started vs. how it's going,830,360,40,23,1230,0
+586,Instagram,This meme cured my depression,1651,203,169,11,2023,0
+587,Reddit,This meme cured my depression,1136,48,945,23,2129,0
+588,Instagram,When you realize it's Monday again...,2810,78,211,22,3099,1
+589,Twitter,POV: your code runs on the first try,475,440,492,13,1407,0
+590,Instagram,This meme cured my depression,2810,478,679,12,3967,1
+591,Instagram,This meme cured my depression,1326,240,38,1,1604,0
+592,Twitter,"No thoughts, just vibes",1019,348,368,2,1735,0
+593,Instagram,POV: your code runs on the first try,1836,153,756,23,2745,0
+594,Reddit,"No thoughts, just vibes",4256,273,150,21,4679,1
+595,Reddit,POV: your code runs on the first try,2448,95,110,9,2653,0
+596,Instagram,"No thoughts, just vibes",4293,213,479,8,4985,1
+597,Reddit,This meme cured my depression,1283,293,435,19,2011,0
+598,Instagram,This meme cured my depression,659,208,46,7,913,0
+599,Reddit,When you realize it's Monday again...,2010,342,574,9,2926,0
+600,Reddit,"No thoughts, just vibes",398,87,736,18,1221,0
+601,Instagram,How it started vs. how it's going,1733,305,365,2,2403,0
+602,Reddit,When you realize it's Monday again...,2125,263,68,23,2456,0
+603,Instagram,"No thoughts, just vibes",2171,424,298,4,2893,0
+604,Reddit,"No thoughts, just vibes",74,389,943,2,1406,0
+605,Reddit,When you realize it's Monday again...,4697,324,801,15,5822,1
+606,Twitter,This meme cured my depression,3471,427,295,16,4193,1
+607,Twitter,"No thoughts, just vibes",836,376,202,14,1414,0
+608,Instagram,This meme cured my depression,499,319,60,2,878,0
+609,Twitter,When you realize it's Monday again...,137,156,945,11,1238,0
+610,Instagram,This meme cured my depression,2097,155,962,8,3214,1
+611,Twitter,POV: your code runs on the first try,3696,138,829,20,4663,1
+612,Reddit,How it started vs. how it's going,1885,120,313,11,2318,0
+613,Instagram,"No thoughts, just vibes",2757,64,160,14,2981,0
+614,Instagram,How it started vs. how it's going,3920,106,330,1,4356,1
+615,Reddit,This meme cured my depression,1900,146,527,22,2573,0
+616,Instagram,"No thoughts, just vibes",2610,136,337,17,3083,1
+617,Instagram,This meme cured my depression,3986,410,605,19,5001,1
+618,Twitter,POV: your code runs on the first try,1449,161,303,11,1913,0
+619,Instagram,When you realize it's Monday again...,546,427,502,22,1475,0
+620,Reddit,"No thoughts, just vibes",4676,451,649,3,5776,1
+621,Twitter,POV: your code runs on the first try,2003,99,337,22,2439,0
+622,Twitter,POV: your code runs on the first try,2096,337,549,15,2982,0
+623,Reddit,"No thoughts, just vibes",703,398,638,22,1739,0
+624,Reddit,This meme cured my depression,2403,306,274,15,2983,0
+625,Twitter,POV: your code runs on the first try,1625,140,163,0,1928,0
+626,Instagram,How it started vs. how it's going,3331,82,442,21,3855,1
+627,Twitter,POV: your code runs on the first try,4733,176,318,1,5227,1
+628,Reddit,This meme cured my depression,2978,197,588,2,3763,1
+629,Twitter,This meme cured my depression,4736,111,503,20,5350,1
+630,Reddit,How it started vs. how it's going,2839,55,685,19,3579,1
+631,Twitter,POV: your code runs on the first try,3384,459,386,16,4229,1
+632,Instagram,This meme cured my depression,2659,178,969,19,3806,1
+633,Twitter,"No thoughts, just vibes",1861,420,869,21,3150,1
+634,Twitter,When you realize it's Monday again...,2856,400,832,20,4088,1
+635,Reddit,When you realize it's Monday again...,685,185,887,0,1757,0
+636,Reddit,When you realize it's Monday again...,4283,470,602,19,5355,1
+637,Reddit,POV: your code runs on the first try,1619,217,749,5,2585,0
+638,Twitter,How it started vs. how it's going,4643,412,775,14,5830,1
+639,Instagram,This meme cured my depression,1431,416,690,13,2537,0
+640,Reddit,"No thoughts, just vibes",875,315,493,19,1683,0
+641,Reddit,"No thoughts, just vibes",4713,474,489,14,5676,1
+642,Twitter,POV: your code runs on the first try,2461,216,720,13,3397,1
+643,Reddit,When you realize it's Monday again...,1365,119,72,20,1556,0
+644,Instagram,POV: your code runs on the first try,1243,438,508,23,2189,0
+645,Instagram,How it started vs. how it's going,4998,393,389,4,5780,1
+646,Reddit,How it started vs. how it's going,162,174,618,5,954,0
+647,Reddit,This meme cured my depression,1974,22,856,16,2852,0
+648,Twitter,This meme cured my depression,3291,212,294,10,3797,1
+649,Instagram,How it started vs. how it's going,269,404,368,15,1041,0
+650,Instagram,How it started vs. how it's going,631,234,955,11,1820,0
+651,Reddit,How it started vs. how it's going,905,12,795,14,1712,0
+652,Twitter,POV: your code runs on the first try,3471,100,864,22,4435,1
+653,Instagram,How it started vs. how it's going,3253,416,693,3,4362,1
+654,Instagram,"No thoughts, just vibes",2014,23,548,17,2585,0
+655,Twitter,When you realize it's Monday again...,1641,363,648,20,2652,0
+656,Twitter,How it started vs. how it's going,204,10,849,2,1063,0
+657,Instagram,When you realize it's Monday again...,581,272,567,21,1420,0
+658,Instagram,POV: your code runs on the first try,840,451,186,7,1477,0
+659,Twitter,When you realize it's Monday again...,1719,430,852,22,3001,1
+660,Instagram,POV: your code runs on the first try,2643,280,769,2,3692,1
+661,Reddit,"No thoughts, just vibes",2297,93,444,7,2834,0
+662,Reddit,POV: your code runs on the first try,874,200,569,17,1643,0
+663,Twitter,POV: your code runs on the first try,689,20,362,9,1071,0
+664,Twitter,This meme cured my depression,4000,339,122,19,4461,1
+665,Twitter,How it started vs. how it's going,3141,466,187,16,3794,1
+666,Reddit,How it started vs. how it's going,1422,210,741,7,2373,0
+667,Instagram,"No thoughts, just vibes",671,139,679,22,1489,0
+668,Reddit,"No thoughts, just vibes",1171,292,419,10,1882,0
+669,Instagram,How it started vs. how it's going,3726,297,625,4,4648,1
+670,Reddit,This meme cured my depression,943,400,251,12,1594,0
+671,Instagram,How it started vs. how it's going,1449,100,618,20,2167,0
+672,Reddit,This meme cured my depression,3737,303,548,22,4588,1
+673,Twitter,"No thoughts, just vibes",2539,358,334,4,3231,1
+674,Reddit,When you realize it's Monday again...,3959,27,91,23,4077,1
+675,Instagram,"No thoughts, just vibes",4991,40,529,12,5560,1
+676,Reddit,"No thoughts, just vibes",4260,354,865,5,5479,1
+677,Reddit,POV: your code runs on the first try,2361,302,62,4,2725,0
+678,Reddit,POV: your code runs on the first try,3652,495,661,8,4808,1
+679,Twitter,POV: your code runs on the first try,3670,145,511,15,4326,1
+680,Reddit,POV: your code runs on the first try,1753,255,138,1,2146,0
+681,Twitter,This meme cured my depression,2352,461,697,0,3510,1
+682,Twitter,How it started vs. how it's going,1938,226,184,7,2348,0
+683,Reddit,When you realize it's Monday again...,370,235,204,18,809,0
+684,Reddit,"No thoughts, just vibes",4948,360,771,10,6079,1
+685,Reddit,This meme cured my depression,4479,379,213,11,5071,1
+686,Instagram,When you realize it's Monday again...,1931,454,255,11,2640,0
+687,Reddit,This meme cured my depression,424,488,134,6,1046,0
+688,Twitter,This meme cured my depression,4724,12,572,12,5308,1
+689,Reddit,"No thoughts, just vibes",894,209,874,7,1977,0
+690,Instagram,How it started vs. how it's going,597,228,821,21,1646,0
+691,Reddit,POV: your code runs on the first try,3062,396,87,8,3545,1
+692,Instagram,How it started vs. how it's going,2336,99,835,6,3270,1
+693,Instagram,"No thoughts, just vibes",4688,30,987,20,5705,1
+694,Reddit,"No thoughts, just vibes",1687,385,206,23,2278,0
+695,Twitter,"No thoughts, just vibes",572,15,128,14,715,0
+696,Instagram,When you realize it's Monday again...,2090,136,822,1,3048,1
+697,Reddit,How it started vs. how it's going,3669,328,2,22,3999,1
+698,Reddit,How it started vs. how it's going,4272,165,973,19,5410,1
+699,Twitter,This meme cured my depression,4624,458,933,11,6015,1
+700,Instagram,This meme cured my depression,1633,309,753,0,2695,0
+701,Instagram,This meme cured my depression,1517,439,120,22,2076,0
+702,Reddit,"No thoughts, just vibes",4293,469,384,21,5146,1
+703,Reddit,How it started vs. how it's going,2657,480,613,7,3750,1
+704,Twitter,"No thoughts, just vibes",3648,99,37,4,3784,1
+705,Twitter,When you realize it's Monday again...,4948,108,340,14,5396,1
+706,Instagram,This meme cured my depression,3588,342,924,0,4854,1
+707,Instagram,"No thoughts, just vibes",1537,172,644,0,2353,0
+708,Reddit,"No thoughts, just vibes",3137,236,713,9,4086,1
+709,Instagram,When you realize it's Monday again...,97,161,859,21,1117,0
+710,Twitter,POV: your code runs on the first try,3215,392,20,9,3627,1
+711,Twitter,How it started vs. how it's going,4530,215,241,20,4986,1
+712,Reddit,POV: your code runs on the first try,4732,263,454,14,5449,1
+713,Twitter,This meme cured my depression,3750,262,962,16,4974,1
+714,Twitter,"No thoughts, just vibes",3157,291,620,21,4068,1
+715,Twitter,When you realize it's Monday again...,4683,273,302,5,5258,1
+716,Twitter,When you realize it's Monday again...,343,2,595,2,940,0
+717,Reddit,How it started vs. how it's going,4666,27,594,12,5287,1
+718,Reddit,POV: your code runs on the first try,610,325,802,15,1737,0
+719,Instagram,How it started vs. how it's going,1727,491,963,7,3181,1
+720,Twitter,"No thoughts, just vibes",2290,427,68,14,2785,0
+721,Instagram,How it started vs. how it's going,1854,148,128,16,2130,0
+722,Reddit,When you realize it's Monday again...,2608,27,195,16,2830,0
+723,Reddit,When you realize it's Monday again...,2079,487,139,21,2705,0
+724,Reddit,This meme cured my depression,2324,309,443,12,3076,1
+725,Reddit,This meme cured my depression,4627,437,282,16,5346,1
+726,Reddit,"No thoughts, just vibes",1177,64,311,5,1552,0
+727,Reddit,POV: your code runs on the first try,1091,355,745,16,2191,0
+728,Reddit,How it started vs. how it's going,4979,20,534,15,5533,1
+729,Twitter,"No thoughts, just vibes",2791,251,664,13,3706,1
+730,Instagram,This meme cured my depression,1749,234,276,12,2259,0
+731,Reddit,How it started vs. how it's going,2675,226,60,5,2961,0
+732,Twitter,This meme cured my depression,781,12,318,2,1111,0
+733,Twitter,How it started vs. how it's going,3048,312,889,13,4249,1
+734,Instagram,POV: your code runs on the first try,2105,48,51,13,2204,0
+735,Reddit,"No thoughts, just vibes",3867,117,855,14,4839,1
+736,Instagram,How it started vs. how it's going,4976,53,152,7,5181,1
+737,Reddit,When you realize it's Monday again...,4542,137,748,14,5427,1
+738,Twitter,When you realize it's Monday again...,2113,52,310,21,2475,0
+739,Twitter,How it started vs. how it's going,3970,43,813,12,4826,1
+740,Twitter,How it started vs. how it's going,1991,302,543,16,2836,0
+741,Twitter,How it started vs. how it's going,1067,52,566,20,1685,0
+742,Instagram,When you realize it's Monday again...,1577,73,863,23,2513,0
+743,Reddit,When you realize it's Monday again...,1011,45,388,2,1444,0
+744,Reddit,How it started vs. how it's going,2274,12,547,5,2833,0
+745,Instagram,This meme cured my depression,4869,164,621,4,5654,1
+746,Reddit,This meme cured my depression,1814,101,176,21,2091,0
+747,Twitter,POV: your code runs on the first try,2426,279,361,16,3066,1
+748,Reddit,"No thoughts, just vibes",4402,257,313,22,4972,1
+749,Twitter,This meme cured my depression,4874,469,806,1,6149,1
+750,Instagram,When you realize it's Monday again...,2551,336,847,14,3734,1
+751,Reddit,This meme cured my depression,3657,355,96,4,4108,1
+752,Instagram,POV: your code runs on the first try,7,397,880,19,1284,0
+753,Reddit,POV: your code runs on the first try,2555,137,212,5,2904,0
+754,Twitter,"No thoughts, just vibes",475,162,828,5,1465,0
+755,Instagram,This meme cured my depression,2211,408,136,17,2755,0
+756,Reddit,When you realize it's Monday again...,484,386,5,17,875,0
+757,Twitter,When you realize it's Monday again...,4654,110,108,3,4872,1
+758,Instagram,How it started vs. how it's going,2285,101,546,16,2932,0
+759,Instagram,When you realize it's Monday again...,4563,16,38,13,4617,1
+760,Reddit,"No thoughts, just vibes",3525,267,661,13,4453,1
+761,Reddit,"No thoughts, just vibes",3339,181,424,12,3944,1
+762,Reddit,When you realize it's Monday again...,2822,371,629,6,3822,1
+763,Twitter,When you realize it's Monday again...,4943,23,260,11,5226,1
+764,Reddit,How it started vs. how it's going,2924,28,425,22,3377,1
+765,Instagram,When you realize it's Monday again...,258,170,86,14,514,0
+766,Instagram,How it started vs. how it's going,282,408,464,18,1154,0
+767,Reddit,How it started vs. how it's going,1898,227,75,10,2200,0
+768,Reddit,When you realize it's Monday again...,4135,377,470,14,4982,1
+769,Instagram,POV: your code runs on the first try,2976,187,975,11,4138,1
+770,Twitter,POV: your code runs on the first try,2267,345,962,2,3574,1
+771,Reddit,How it started vs. how it's going,3200,229,413,16,3842,1
+772,Reddit,When you realize it's Monday again...,612,320,824,2,1756,0
+773,Instagram,POV: your code runs on the first try,687,339,894,18,1920,0
+774,Reddit,When you realize it's Monday again...,3690,118,725,19,4533,1
+775,Twitter,When you realize it's Monday again...,612,155,456,3,1223,0
+776,Instagram,When you realize it's Monday again...,2307,271,284,2,2862,0
+777,Reddit,This meme cured my depression,3013,174,238,15,3425,1
+778,Instagram,When you realize it's Monday again...,1781,464,676,11,2921,0
+779,Reddit,This meme cured my depression,2591,103,598,7,3292,1
+780,Reddit,How it started vs. how it's going,2696,91,652,23,3439,1
+781,Reddit,POV: your code runs on the first try,3958,185,671,16,4814,1
+782,Twitter,POV: your code runs on the first try,574,459,557,6,1590,0
+783,Twitter,POV: your code runs on the first try,1910,282,371,10,2563,0
+784,Instagram,POV: your code runs on the first try,3604,180,494,17,4278,1
+785,Reddit,POV: your code runs on the first try,669,169,623,0,1461,0
+786,Reddit,POV: your code runs on the first try,4364,186,918,2,5468,1
+787,Twitter,POV: your code runs on the first try,1283,174,44,3,1501,0
+788,Reddit,How it started vs. how it's going,923,221,400,12,1544,0
+789,Twitter,When you realize it's Monday again...,1125,232,246,5,1603,0
+790,Reddit,"No thoughts, just vibes",1529,161,615,13,2305,0
+791,Instagram,This meme cured my depression,1594,420,596,4,2610,0
+792,Reddit,"No thoughts, just vibes",246,133,449,15,828,0
+793,Reddit,"No thoughts, just vibes",3711,390,484,14,4585,1
+794,Twitter,When you realize it's Monday again...,1560,479,645,14,2684,0
+795,Reddit,When you realize it's Monday again...,2400,223,619,3,3242,1
+796,Reddit,When you realize it's Monday again...,2243,152,17,7,2412,0
+797,Twitter,POV: your code runs on the first try,3864,32,605,15,4501,1
+798,Instagram,How it started vs. how it's going,1939,54,661,15,2654,0
+799,Instagram,POV: your code runs on the first try,3069,441,757,3,4267,1
+800,Twitter,How it started vs. how it's going,226,6,288,12,520,0
+801,Twitter,How it started vs. how it's going,3547,243,413,12,4203,1
+802,Twitter,"No thoughts, just vibes",264,312,720,1,1296,0
+803,Twitter,"No thoughts, just vibes",1395,125,637,2,2157,0
+804,Twitter,How it started vs. how it's going,3557,11,234,21,3802,1
+805,Instagram,How it started vs. how it's going,645,15,415,7,1075,0
+806,Instagram,POV: your code runs on the first try,2990,207,937,23,4134,1
+807,Twitter,POV: your code runs on the first try,1899,42,498,14,2439,0
+808,Reddit,"No thoughts, just vibes",2504,372,973,10,3849,1
+809,Twitter,When you realize it's Monday again...,2772,483,633,8,3888,1
+810,Reddit,How it started vs. how it's going,1154,460,649,6,2263,0
+811,Twitter,POV: your code runs on the first try,587,134,114,12,835,0
+812,Twitter,"No thoughts, just vibes",4571,227,931,1,5729,1
+813,Instagram,POV: your code runs on the first try,1821,110,673,7,2604,0
+814,Reddit,How it started vs. how it's going,985,306,712,6,2003,0
+815,Reddit,How it started vs. how it's going,4079,456,233,23,4768,1
+816,Instagram,This meme cured my depression,3348,159,539,11,4046,1
+817,Instagram,When you realize it's Monday again...,3831,330,10,18,4171,1
+818,Instagram,This meme cured my depression,1241,263,205,6,1709,0
+819,Instagram,"No thoughts, just vibes",189,224,678,9,1091,0
+820,Reddit,POV: your code runs on the first try,980,470,246,15,1696,0
+821,Reddit,"No thoughts, just vibes",1698,216,558,2,2472,0
+822,Twitter,How it started vs. how it's going,1715,455,757,9,2927,0
+823,Twitter,This meme cured my depression,2593,44,126,5,2763,0
+824,Instagram,This meme cured my depression,4136,213,146,17,4495,1
+825,Instagram,This meme cured my depression,4433,58,117,17,4608,1
+826,Instagram,"No thoughts, just vibes",1098,131,910,4,2139,0
+827,Twitter,How it started vs. how it's going,2326,103,381,20,2810,0
+828,Twitter,POV: your code runs on the first try,3247,194,411,6,3852,1
+829,Twitter,POV: your code runs on the first try,895,412,663,1,1970,0
+830,Twitter,"No thoughts, just vibes",1674,488,583,10,2745,0
+831,Twitter,This meme cured my depression,2909,156,362,12,3427,1
+832,Twitter,When you realize it's Monday again...,930,97,508,22,1535,0
+833,Twitter,"No thoughts, just vibes",4384,225,136,4,4745,1
+834,Instagram,"No thoughts, just vibes",723,411,174,5,1308,0
+835,Instagram,How it started vs. how it's going,2940,204,288,23,3432,1
+836,Instagram,POV: your code runs on the first try,1089,78,957,13,2124,0
+837,Instagram,"No thoughts, just vibes",4578,123,480,11,5181,1
+838,Twitter,"No thoughts, just vibes",935,470,18,3,1423,0
+839,Reddit,This meme cured my depression,2295,427,194,22,2916,0
+840,Twitter,This meme cured my depression,155,217,329,5,701,0
+841,Reddit,When you realize it's Monday again...,1070,3,935,9,2008,0
+842,Instagram,How it started vs. how it's going,1958,89,174,17,2221,0
+843,Twitter,When you realize it's Monday again...,2501,103,448,14,3052,1
+844,Instagram,This meme cured my depression,4219,392,924,7,5535,1
+845,Twitter,POV: your code runs on the first try,3830,118,945,8,4893,1
+846,Instagram,This meme cured my depression,854,132,353,4,1339,0
+847,Reddit,How it started vs. how it's going,639,311,498,9,1448,0
+848,Reddit,This meme cured my depression,2238,95,140,19,2473,0
+849,Reddit,How it started vs. how it's going,1602,467,757,5,2826,0
+850,Twitter,How it started vs. how it's going,441,433,896,15,1770,0
+851,Reddit,How it started vs. how it's going,4628,330,929,23,5887,1
+852,Twitter,How it started vs. how it's going,1336,142,92,2,1570,0
+853,Reddit,How it started vs. how it's going,3700,287,943,9,4930,1
+854,Reddit,POV: your code runs on the first try,948,27,238,10,1213,0
+855,Twitter,When you realize it's Monday again...,3373,277,204,10,3854,1
+856,Twitter,"No thoughts, just vibes",459,232,559,16,1250,0
+857,Reddit,When you realize it's Monday again...,4646,16,432,3,5094,1
+858,Twitter,How it started vs. how it's going,392,58,244,3,694,0
+859,Reddit,POV: your code runs on the first try,3938,89,831,16,4858,1
+860,Twitter,This meme cured my depression,1787,491,316,8,2594,0
+861,Instagram,POV: your code runs on the first try,4940,198,924,18,6062,1
+862,Instagram,How it started vs. how it's going,2257,361,294,4,2912,0
+863,Instagram,POV: your code runs on the first try,1138,440,639,21,2217,0
+864,Instagram,POV: your code runs on the first try,3808,25,855,23,4688,1
+865,Instagram,How it started vs. how it's going,4741,24,281,5,5046,1
+866,Reddit,POV: your code runs on the first try,2454,393,16,2,2863,0
+867,Instagram,"No thoughts, just vibes",1466,300,70,21,1836,0
+868,Instagram,"No thoughts, just vibes",3674,338,268,0,4280,1
+869,Instagram,POV: your code runs on the first try,1377,266,324,19,1967,0
+870,Instagram,This meme cured my depression,2597,460,793,21,3850,1
+871,Twitter,How it started vs. how it's going,141,180,304,15,625,0
+872,Reddit,"No thoughts, just vibes",2659,455,450,22,3564,1
+873,Instagram,This meme cured my depression,4596,359,6,10,4961,1
+874,Instagram,POV: your code runs on the first try,839,67,313,12,1219,0
+875,Instagram,This meme cured my depression,3618,494,816,9,4928,1
+876,Reddit,When you realize it's Monday again...,3917,350,102,2,4369,1
+877,Twitter,"No thoughts, just vibes",595,411,820,8,1826,0
+878,Reddit,POV: your code runs on the first try,1904,458,192,11,2554,0
+879,Twitter,How it started vs. how it's going,280,490,752,22,1522,0
+880,Instagram,POV: your code runs on the first try,423,320,573,13,1316,0
+881,Instagram,How it started vs. how it's going,4365,48,528,0,4941,1
+882,Reddit,POV: your code runs on the first try,4249,174,170,17,4593,1
+883,Reddit,This meme cured my depression,1750,51,536,16,2337,0
+884,Twitter,This meme cured my depression,4757,101,250,8,5108,1
+885,Twitter,This meme cured my depression,1967,215,764,8,2946,0
+886,Reddit,When you realize it's Monday again...,4088,437,386,22,4911,1
+887,Twitter,How it started vs. how it's going,4178,187,206,9,4571,1
+888,Reddit,This meme cured my depression,2946,56,540,18,3542,1
+889,Twitter,When you realize it's Monday again...,1449,46,628,14,2123,0
+890,Reddit,How it started vs. how it's going,2331,158,415,4,2904,0
+891,Reddit,POV: your code runs on the first try,2220,488,793,14,3501,1
+892,Reddit,When you realize it's Monday again...,3789,173,379,19,4341,1
+893,Twitter,"No thoughts, just vibes",2810,241,143,22,3194,1
+894,Twitter,When you realize it's Monday again...,4728,281,24,1,5033,1
+895,Twitter,When you realize it's Monday again...,1531,240,821,12,2592,0
+896,Reddit,How it started vs. how it's going,4882,369,667,23,5918,1
+897,Twitter,POV: your code runs on the first try,2990,4,72,15,3066,1
+898,Twitter,"No thoughts, just vibes",4493,83,631,14,5207,1
+899,Reddit,This meme cured my depression,1143,307,823,9,2273,0
+900,Instagram,This meme cured my depression,933,360,832,13,2125,0
+901,Reddit,When you realize it's Monday again...,1460,458,92,9,2010,0
+902,Twitter,How it started vs. how it's going,2723,247,504,13,3474,1
+903,Reddit,How it started vs. how it's going,2512,53,597,22,3162,1
+904,Instagram,This meme cured my depression,285,160,335,8,780,0
+905,Reddit,"No thoughts, just vibes",264,433,424,13,1121,0
+906,Twitter,POV: your code runs on the first try,2367,421,498,2,3286,1
+907,Instagram,"No thoughts, just vibes",3447,410,363,19,4220,1
+908,Twitter,POV: your code runs on the first try,4916,225,946,15,6087,1
+909,Instagram,This meme cured my depression,1762,14,629,1,2405,0
+910,Instagram,POV: your code runs on the first try,3048,223,744,9,4015,1
+911,Reddit,How it started vs. how it's going,2381,60,198,2,2639,0
+912,Reddit,When you realize it's Monday again...,2269,121,717,10,3107,1
+913,Twitter,When you realize it's Monday again...,40,276,412,10,728,0
+914,Reddit,This meme cured my depression,67,45,338,20,450,0
+915,Reddit,How it started vs. how it's going,987,452,658,20,2097,0
+916,Instagram,"No thoughts, just vibes",4008,389,961,21,5358,1
+917,Reddit,How it started vs. how it's going,3198,293,936,12,4427,1
+918,Instagram,When you realize it's Monday again...,4790,61,428,6,5279,1
+919,Instagram,When you realize it's Monday again...,2524,85,782,22,3391,1
+920,Instagram,How it started vs. how it's going,1085,445,898,16,2428,0
+921,Twitter,How it started vs. how it's going,2479,209,138,1,2826,0
+922,Twitter,When you realize it's Monday again...,1693,77,692,11,2462,0
+923,Twitter,"No thoughts, just vibes",2315,201,941,9,3457,1
+924,Instagram,This meme cured my depression,778,301,541,17,1620,0
+925,Twitter,This meme cured my depression,4589,396,56,21,5041,1
+926,Twitter,How it started vs. how it's going,1585,222,231,10,2038,0
+927,Reddit,This meme cured my depression,1492,221,657,15,2370,0
+928,Twitter,When you realize it's Monday again...,660,2,434,16,1096,0
+929,Twitter,When you realize it's Monday again...,1348,477,383,18,2208,0
+930,Instagram,How it started vs. how it's going,1299,5,559,17,1863,0
+931,Instagram,How it started vs. how it's going,3940,92,193,2,4225,1
+932,Instagram,How it started vs. how it's going,1986,7,735,20,2728,0
+933,Instagram,"No thoughts, just vibes",2044,427,647,15,3118,1
+934,Instagram,This meme cured my depression,3516,492,533,5,4541,1
+935,Instagram,How it started vs. how it's going,1058,234,517,11,1809,0
+936,Twitter,POV: your code runs on the first try,976,107,715,10,1798,0
+937,Instagram,POV: your code runs on the first try,4577,160,750,14,5487,1
+938,Instagram,When you realize it's Monday again...,727,208,184,14,1119,0
+939,Reddit,This meme cured my depression,2527,239,871,15,3637,1
+940,Twitter,How it started vs. how it's going,3136,330,291,9,3757,1
+941,Twitter,POV: your code runs on the first try,342,332,334,11,1008,0
+942,Twitter,This meme cured my depression,1447,49,731,12,2227,0
+943,Instagram,When you realize it's Monday again...,2379,10,115,3,2504,0
+944,Instagram,"No thoughts, just vibes",3659,350,824,6,4833,1
+945,Instagram,This meme cured my depression,526,155,48,21,729,0
+946,Reddit,This meme cured my depression,1896,491,684,1,3071,1
+947,Instagram,"No thoughts, just vibes",4754,69,81,14,4904,1
+948,Reddit,This meme cured my depression,2073,168,833,7,3074,1
+949,Twitter,When you realize it's Monday again...,4915,271,332,6,5518,1
+950,Instagram,When you realize it's Monday again...,405,67,556,14,1028,0
+951,Reddit,"No thoughts, just vibes",1573,354,334,22,2261,0
+952,Reddit,How it started vs. how it's going,4600,251,531,13,5382,1
+953,Instagram,POV: your code runs on the first try,3740,47,959,7,4746,1
+954,Twitter,How it started vs. how it's going,4274,183,220,11,4677,1
+955,Twitter,This meme cured my depression,4227,319,634,12,5180,1
+956,Twitter,POV: your code runs on the first try,1846,186,745,10,2777,0
+957,Reddit,"No thoughts, just vibes",1478,89,732,16,2299,0
+958,Reddit,"No thoughts, just vibes",2395,445,322,16,3162,1
+959,Reddit,POV: your code runs on the first try,771,331,850,23,1952,0
+960,Reddit,When you realize it's Monday again...,578,138,2,3,718,0
+961,Twitter,POV: your code runs on the first try,2901,356,693,20,3950,1
+962,Instagram,This meme cured my depression,193,88,205,7,486,0
+963,Reddit,When you realize it's Monday again...,2007,273,831,4,3111,1
+964,Reddit,"No thoughts, just vibes",1185,18,39,15,1242,0
+965,Twitter,POV: your code runs on the first try,2394,470,58,3,2922,0
+966,Instagram,How it started vs. how it's going,2998,310,950,21,4258,1
+967,Instagram,How it started vs. how it's going,1792,357,573,14,2722,0
+968,Twitter,This meme cured my depression,1110,373,643,11,2126,0
+969,Twitter,How it started vs. how it's going,4005,465,506,4,4976,1
+970,Instagram,POV: your code runs on the first try,2261,153,571,22,2985,0
+971,Reddit,POV: your code runs on the first try,3736,389,883,15,5008,1
+972,Instagram,How it started vs. how it's going,3793,259,842,13,4894,1
+973,Twitter,POV: your code runs on the first try,1936,107,121,9,2164,0
+974,Reddit,This meme cured my depression,4875,370,478,6,5723,1
+975,Reddit,When you realize it's Monday again...,4357,284,618,12,5259,1
+976,Twitter,This meme cured my depression,729,58,95,19,882,0
+977,Twitter,This meme cured my depression,4378,124,858,4,5360,1
+978,Twitter,POV: your code runs on the first try,3451,353,413,2,4217,1
+979,Instagram,When you realize it's Monday again...,4457,272,234,14,4963,1
+980,Instagram,POV: your code runs on the first try,4536,106,897,3,5539,1
+981,Reddit,"No thoughts, just vibes",2140,298,61,14,2499,0
+982,Twitter,POV: your code runs on the first try,1644,244,255,13,2143,0
+983,Reddit,POV: your code runs on the first try,2800,335,560,19,3695,1
+984,Reddit,POV: your code runs on the first try,4962,449,904,18,6315,1
+985,Reddit,When you realize it's Monday again...,141,417,347,12,905,0
+986,Reddit,POV: your code runs on the first try,1455,246,670,9,2371,0
+987,Twitter,When you realize it's Monday again...,4796,7,123,20,4926,1
+988,Reddit,How it started vs. how it's going,2096,140,481,4,2717,0
+989,Twitter,"No thoughts, just vibes",1325,361,316,22,2002,0
+990,Twitter,When you realize it's Monday again...,4976,7,503,19,5486,1
+991,Instagram,How it started vs. how it's going,1213,477,718,19,2408,0
+992,Twitter,When you realize it's Monday again...,1159,351,47,5,1557,0
+993,Instagram,When you realize it's Monday again...,4650,483,408,3,5541,1
+994,Twitter,"No thoughts, just vibes",4499,494,931,1,5924,1
+995,Twitter,This meme cured my depression,4987,93,135,21,5215,1
+996,Twitter,This meme cured my depression,4697,320,200,15,5217,1
+997,Instagram,When you realize it's Monday again...,340,426,249,17,1015,0
+998,Instagram,POV: your code runs on the first try,3828,38,313,4,4179,1
+999,Reddit,How it started vs. how it's going,1968,80,868,21,2916,0
