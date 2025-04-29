@@ -1,5 +1,8 @@
 # 🔥 Meme Virality Predictor
 
+#[Visit the Meme Virality Predictor](https://meme-virality-predictor-ih7xc4ccnbazdvdcwxvjrc.streamlit.app/)
+
+
 This is a Streamlit web application that predicts the likelihood of a meme going viral based on user-provided metrics such as likes, comments, platform, caption sentiment, and more. The app uses a Random Forest Classifier to make predictions and visualizes both prediction influence and overall feature importance.
 
 ---
